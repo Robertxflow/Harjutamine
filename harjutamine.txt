@@ -2,3 +2,5 @@ GitHub on arendajatele loodud projekt, koodide versioonihaldus ja sotsiaalmeedia
 Aga milleks GitHubi kasutatakse? Muuhulgas võimaldab see teha koostööd teistega üle maailma, planeerida oma projekte ja jälgida oma tööd.
 
 GitHub on ka üks suurimaid veebipõhiseid koostööhoidlaid kogu maailmas.
+
+Saame kasutada koolis ja tööproektides. Kasutada selleks, et luua ja hoida paljud failid.
