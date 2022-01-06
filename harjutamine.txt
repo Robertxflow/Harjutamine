@@ -1,0 +1,4 @@
+GitHub on arendajatele loodud projekt, koodide versioonihaldus ja sotsiaalmeedia platvorm.
+Aga milleks GitHubi kasutatakse? Muuhulgas võimaldab see teha koostööd teistega üle maailma, planeerida oma projekte ja jälgida oma tööd.
+
+GitHub on ka üks suurimaid veebipõhiseid koostööhoidlaid kogu maailmas.
