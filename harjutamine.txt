@@ -4,3 +4,8 @@ Aga milleks GitHubi kasutatakse? Muuhulgas võimaldab see teha koostööd teiste
 GitHub on ka üks suurimaid veebipõhiseid koostööhoidlaid kogu maailmas.
 
 Saame kasutada koolis ja tööproektides. Kasutada selleks, et luua ja hoida paljud failid.
+
+Esimene privaathoidla loodi 12. jaanuaril 2008. 
+2011. aasta lõpuks oli projekti registreeritud juba üle miljoni kasutaja ja üle kahe miljoni hoidla. 
+2017. aasta märtsi seisuga oli saidil üle 58 miljoni hoidla.
+2008. aasta lõpus sai GitHub parima startup-debüüdi auhinna.
